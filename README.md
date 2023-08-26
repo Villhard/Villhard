@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=villhard&label=Profile%20views&color=0e75b6&style=flat" alt="villhard" /> </p>
 
-- 🔭 I’m currently working on [my first project right now.](https://github.com/Villhard/TestAttest)
+- 👨‍💻 I’m currently working on [my first project right now.](https://github.com/Villhard/TestAttest)
 
-- 🌱 I’m currently learning **aiogram, sqlalchemy**
+- 📖 I’m currently learning **aiogram, sqlalchemy**
 
 - 📫 How to reach me **victorwillhard@gmail.com**
 
