@@ -1,5 +1,5 @@
-<h1 align=center>Hi 👋, I'm Victor</h1>
-<h3 align=center>I'm a novice python developer</h3>
+<h1>Hi 👋, I'm Victor</h1>
+<h3>I'm a novice python developer</h3>
 
 - 👨‍💻 I’m currently working on [my first project right now.](https://github.com/Villhard/TestAttest)
 
