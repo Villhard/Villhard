@@ -2,8 +2,6 @@
 <h3>I'm a novice python developer</h3>
 
 <br>
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
-<br>
 
 - 📫 How to reach me **victorwillhard@gmail.com**
 
