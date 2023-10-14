@@ -3,5 +3,4 @@
 - 📫 How to reach me **victorwillhard@gmail.com**
 
 <h3 align="left">Languages:</h3>
-#3776AB
 <h3 align="left">Tools:</h3>
