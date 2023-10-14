@@ -4,4 +4,3 @@
 
 <h3 align="left">Languages:</h3>
 <h3 align="left">Tools:</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" weight=100/>
